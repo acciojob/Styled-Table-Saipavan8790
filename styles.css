@@ -5,6 +5,3 @@ tr:nth-child(even) {
 #headTable{
 	background-color: cornflowerblue;
 }
-table {
-	border-radius: 40%;
-}
